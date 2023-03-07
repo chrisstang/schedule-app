@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "mquandalle.graphql",
+    "graphql.vscode-graphql",
+    "graphql.vscode-graphql-syntax",
+    "eamodio.gitlens"
+  ]
+}
