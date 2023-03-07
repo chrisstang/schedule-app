@@ -43,7 +43,7 @@ $ npm run dev-all
 Set up the MongoDB database:
 
 1. Create a MongoDB Atlas account.
-2. Create a new database and collection.
+2. Create a new database (travel) and collection (schedules).
 3. Generate a connection string.
 4. Create .env file
 5. Insert connection string in .env file
