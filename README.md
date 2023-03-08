@@ -7,6 +7,7 @@ This is a MERN application that allows users to create, edit, and delete schedul
 - [Installation](#installation)
 - [Quick start](#quick-start)
 - [Getting started](#getting-started)
+- [Questionnaire](#questionnaire)
 
 ## Installation
 
@@ -51,3 +52,7 @@ Set up the MongoDB database:
 ```env
 ATLAS_URI={Your_MongoDB_connection_string}
 ```
+
+## Questionnaire
+
+All questionnaire questions and answer can be found inside `questionnaire` folder, with respective filename as section.
